@@ -406,13 +406,13 @@ p{
     }
 
     80.0%{
-        background-image: url('img/OIP.jpg');
+        background-image: url('img/oip.jpg');
         opacity: 100%;
     }
 
     
     100%{
-        background-image: url('img/OIP.jpg');
+        background-image: url('img/oip.jpg');
         opacity: 100%;
     }
 
